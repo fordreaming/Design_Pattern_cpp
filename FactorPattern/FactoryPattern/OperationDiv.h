@@ -5,7 +5,7 @@
 //³ý·¨Àà
 class OperationDiv:public Operation
 {
-public:
-	double GetResult();
+	public:
+		double GetResult();
 };
 #endif _OPERATION_DIV_H_
