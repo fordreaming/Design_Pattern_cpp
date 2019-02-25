@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AbstractFactoryPattern", "A
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleFactoryPatternSelf", "SimpleFactoryPatternSelf\SimpleFactoryPatternSelf\SimpleFactoryPatternSelf.vcproj", "{FA5D5289-9CA4-4880-8BB7-E2F6106FFBF1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FactoryPatternCalSelf", "FactoryPatternCalSelf\FactoryPatternCalSelf.vcproj", "{6B6D7461-967F-4CFF-B74C-77D8F24B4A88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -37,6 +39,10 @@ Global
 		{FA5D5289-9CA4-4880-8BB7-E2F6106FFBF1}.Debug|Win32.Build.0 = Debug|Win32
 		{FA5D5289-9CA4-4880-8BB7-E2F6106FFBF1}.Release|Win32.ActiveCfg = Release|Win32
 		{FA5D5289-9CA4-4880-8BB7-E2F6106FFBF1}.Release|Win32.Build.0 = Release|Win32
+		{6B6D7461-967F-4CFF-B74C-77D8F24B4A88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B6D7461-967F-4CFF-B74C-77D8F24B4A88}.Debug|Win32.Build.0 = Debug|Win32
+		{6B6D7461-967F-4CFF-B74C-77D8F24B4A88}.Release|Win32.ActiveCfg = Release|Win32
+		{6B6D7461-967F-4CFF-B74C-77D8F24B4A88}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
