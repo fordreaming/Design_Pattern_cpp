@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AbstractFactoryPatternSelf", "AbstractFactoryPatternSelf\AbstractFactoryPatternSelf.vcproj", "{DC1D3C86-F0D1-4573-8B8C-FA21CB280FD0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AbstractFactoryPatternSelf2", "AbstractFactoryPatternSelf2\AbstractFactoryPatternSelf2.vcproj", "{1F24AE36-9CAE-49DF-8D01-B060711FFD48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AbstractFactoryPatternSelf3", "AbstractFactoryPatternSelf3\AbstractFactoryPatternSelf3.vcproj", "{AC758796-902C-442B-A2E9-3D62FF8E1EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1D3C86-F0D1-4573-8B8C-FA21CB280FD0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC1D3C86-F0D1-4573-8B8C-FA21CB280FD0}.Debug|Win32.Build.0 = Debug|Win32
+		{DC1D3C86-F0D1-4573-8B8C-FA21CB280FD0}.Release|Win32.ActiveCfg = Release|Win32
+		{DC1D3C86-F0D1-4573-8B8C-FA21CB280FD0}.Release|Win32.Build.0 = Release|Win32
+		{1F24AE36-9CAE-49DF-8D01-B060711FFD48}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F24AE36-9CAE-49DF-8D01-B060711FFD48}.Debug|Win32.Build.0 = Debug|Win32
+		{1F24AE36-9CAE-49DF-8D01-B060711FFD48}.Release|Win32.ActiveCfg = Release|Win32
+		{1F24AE36-9CAE-49DF-8D01-B060711FFD48}.Release|Win32.Build.0 = Release|Win32
+		{AC758796-902C-442B-A2E9-3D62FF8E1EDB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC758796-902C-442B-A2E9-3D62FF8E1EDB}.Debug|Win32.Build.0 = Debug|Win32
+		{AC758796-902C-442B-A2E9-3D62FF8E1EDB}.Release|Win32.ActiveCfg = Release|Win32
+		{AC758796-902C-442B-A2E9-3D62FF8E1EDB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
