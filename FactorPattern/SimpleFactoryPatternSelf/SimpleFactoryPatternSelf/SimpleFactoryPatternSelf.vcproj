@@ -179,6 +179,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\Multi.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\Operation.cpp"
 				>
 			</File>
@@ -198,6 +202,10 @@
 			>
 			<File
 				RelativePath=".\Add.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Multi.h"
 				>
 			</File>
 			<File

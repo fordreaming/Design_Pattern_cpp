@@ -2,6 +2,7 @@
 #include "Operation.h"
 #include "Add.h"
 #include "Sub.h"
+#include "Multi.h"
 
 enum OPERATION_TYPE
 {

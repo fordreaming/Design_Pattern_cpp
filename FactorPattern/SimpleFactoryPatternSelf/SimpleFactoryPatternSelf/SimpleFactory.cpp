@@ -19,6 +19,11 @@ COperation* CSimpleFactory::CreateOperation(char *pChar)
 	case '-':
 		oper = new CSub();
 		break;
+	case '*':
+		oper = new CMulti();
+		break;
+	default:
+		break;
 	}
 	return oper;
 }
