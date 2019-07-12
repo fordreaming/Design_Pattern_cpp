@@ -1,8 +1,10 @@
-#ifndef _SINGLE_CORE_H_
-#define _SINGLE_CORE_H_
+#ifndef SingleCore_h__
+#define SingleCore_h__
+
 class SingleCore  
 {  
 public:  
 	virtual void Show() = 0;
 }; 
-#endif
+
+#endif // SingleCore_h__
