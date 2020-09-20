@@ -11,6 +11,10 @@ Work::Work()
 
 Work::~Work()
 {
+	if (nullptr != m_current) {
+		delete m_current;
+	}
+	m_current = nullptr;
 }
 
 void Work::SetState(State* state)
