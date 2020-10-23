@@ -1,8 +1,13 @@
-#include <QCoreApplication>
+//#include <QCoreApplication>
+#include <iostream>
+
+using namespace std;
+
 
 int main(int argc, char *argv[])
 {
-    QCoreApplication a(argc, argv);
+//    QCoreApplication a(argc, argv);
 
-    return a.exec();
+//    return a.exec();
+    return 0;
 }
