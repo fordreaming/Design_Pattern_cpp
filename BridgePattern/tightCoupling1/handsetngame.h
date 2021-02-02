@@ -6,6 +6,7 @@ class HandsetNGame : public HandsetGame
 {
 public:
     HandsetNGame();
+    void Run();
 };
 
 #endif // HANDSETNGAME_H

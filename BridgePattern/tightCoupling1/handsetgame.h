@@ -6,6 +6,7 @@ class HandsetGame
 {
 public:
     HandsetGame();
+    virtual void Run() = 0;
 };
 
 #endif // HANDSETGAME_H
