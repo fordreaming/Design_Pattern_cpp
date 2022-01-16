@@ -1,6 +1,8 @@
 #pragma once
 #ifndef _OPERATION_H_
 #define _OPERATION_H_
+#include <iostream>
+
 //‘ÀÀ„¿‡
 class Operation
 {
